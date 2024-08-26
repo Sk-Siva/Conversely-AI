@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Conversely-Assignment-1/static/css/main.03163299.css",
+    "main.js": "/Conversely-Assignment-1/static/js/main.5b9d135b.js",
+    "index.html": "/Conversely-Assignment-1/index.html",
+    "main.03163299.css.map": "/Conversely-Assignment-1/static/css/main.03163299.css.map",
+    "main.5b9d135b.js.map": "/Conversely-Assignment-1/static/js/main.5b9d135b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.03163299.css",
+    "static/js/main.5b9d135b.js"
+  ]
+}
