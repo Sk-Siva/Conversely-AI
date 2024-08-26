@@ -15,3 +15,7 @@ This React application features a 3x3 matrix where each cell is a clickable box.
 - **Click on any box to change its color to green.**
 - **Click on a green box to revert it to its default color, white.** 
 - **Once all boxes are turned green, they will automatically change to orange in the sequence they were clicked.**
+
+## Deployment
+
+- You can View This application by visiting this link https://sk-siva.github.io/Conversely-Assignment-1/
